@@ -60,7 +60,7 @@ public class L3Queue1oper {
         queue.enqueue(30);
         queue.enqueue(40);
 
-        System.out.println(queue.dequeue() + "dequeue from queue");
+        System.out.println(queue.dequeue() + " dequeue from queue");
 
         System.out.println("front item is: " + queue.front);
 
